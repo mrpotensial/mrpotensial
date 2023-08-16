@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<h1 align="center">Hi 👋, My name is Qaedi</h1>
+<h1 align="center">Hi there 👋, My name is Qaedi</h1>
 
 <h3>A passionate developer from Indonesia</h3>
 
