@@ -4,7 +4,7 @@
 
 - 📆 26 years old
 
-- 🌱 I’m currently learning Flutter, Node.JS & Laravel!
+- 🌱 I’m currently learning Ext Js, Laminas & Node.JS!
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
