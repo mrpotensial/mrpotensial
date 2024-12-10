@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" title="Didie Qaedi" />
   </a>
   <a href="mailto:didieqaedi@gmail.com">
-    <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" title="didieqaedi@gmail.com" />
+    <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" title="qaedi.dev@gmail.com" />
   </a>
 </p>
 
